@@ -41,7 +41,7 @@ Install dependencies
 pip install -r requirements.txt
 
 Run analysis
-python instagram_analysis_v2.py
+python Insta_analysis.py
 ```
 
 Concepts Covered
